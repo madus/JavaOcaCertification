@@ -7,6 +7,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../helloWorld/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../helloWorld/.idea/workspace.xml" />
     </list>
     <ignored path="Chapter1_JavaBasics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -755,7 +756,7 @@
       <created>1653839970788</created>
       <option name="number" value="Default" />
       <updated>1653839970788</updated>
-      <workItem from="1653839974983" duration="5086000" />
+      <workItem from="1653839974983" duration="5096000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 1 Java basics Oca&#10;">
       <created>1653840172022</created>
@@ -779,7 +780,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5086000" />
+    <option name="totallyTimeSpent" value="5096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
