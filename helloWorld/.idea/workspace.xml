@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ca35ca57-68cb-4cda-aca5-ed99d0996e93" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chapter1_JavaBasics/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Chapter1_JavaBasics/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="helloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
